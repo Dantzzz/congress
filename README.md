@@ -2,8 +2,7 @@
 
 ## Project Overview
 This application is designed to fetch, organize, and store data pertaining to the 119th Congress.
-Metrics are then displayed on an interactive dashboard, providing insights into the degree of bipartisan 
-support, cosponsor composition, and voting patterns. 
+Metrics are then displayed on an interactive dashboard, providing insights into the degree of bipartisan support, cosponsor composition, and voting patterns. 
 
 The project demonstrates end-to-end data pipeline proficiency, including REST API integration, relational database design and SQLAlchemy ORM, 
 and visualization of KPIs and other metrics.
