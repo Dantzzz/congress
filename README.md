@@ -32,3 +32,18 @@ and visualization of KPIs and other metrics.
 - Retrieval of data from previous congressional terms
 - ML extension to estimate the likelihood of a bill's success.
 - Cloud migration
+
+## TODO (PHASE 2)
+- Read Congress.gov API documentation
+     - Available endpoints
+     - Authentication
+     - Response formats
+     - Rate limits
+- Python script to authenticate with API
+- Helper functions to fetch data (bills, voting records, etc)
+- Pagination Handling
+- Error handling and Rate limiting
+- Parse JSON into Python dicts and convert to df's
+- Test w/ sample csv export
+- Unit tests for API functions
+- Create config file for API settings
