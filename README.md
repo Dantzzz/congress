@@ -38,10 +38,10 @@ and visualization of KPIs and other metrics.
      - Available endpoints
      - Authentication
      - Response formats
-     - Rate limits
+     - Rate limits (5000/hr)
 - Python script to authenticate with API
 - Helper functions to fetch data (bills, voting records, etc)
-- Pagination Handling
+- Pagination Handling (20 default/max 250)
 - Error handling and Rate limiting
 - Parse JSON into Python dicts and convert to df's
 - Test w/ sample csv export

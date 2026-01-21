@@ -4,3 +4,7 @@ __pycache__
 .env
 .env.*
 
+notes
+notes.txt
+notebooks/
+api_test.py
